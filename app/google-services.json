@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "65845194237",
+    "project_id": "rentcar-firebase",
+    "storage_bucket": "rentcar-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65845194237:android:c51e93b4117a628fa77d94",
+        "android_client_info": {
+          "package_name": "com.example.rentcarfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC124bJSsD4un2KF9-IxB90XTY3OjV6K14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
